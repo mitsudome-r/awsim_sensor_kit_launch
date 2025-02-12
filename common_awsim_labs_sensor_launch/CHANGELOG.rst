@@ -2,8 +2,8 @@
 Changelog for package common_awsim_labs_sensor_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.41.0 (2025-02-12)
+-------------------
 * Merge remote-tracking branch 'origin/main' into HEAD
 * chore: remove unnecessary dependency to velodyne_monitor (`#19 <https://github.com/autowarefoundation/awsim_labs_sensor_kit_launch/issues/19>`_)
 * chore: sync files (`#14 <https://github.com/autowarefoundation/awsim_labs_sensor_kit_launch/issues/14>`_)
